@@ -1,0 +1,15 @@
+*.iml
+.gradle
+.idea
+/local.properties
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+package-lock.json
+node_modules
+build
+release
+assets
+libs
